@@ -1,0 +1,4 @@
+# R1:money_with_wings:
+
+até o presente momento ,aprendi no curso noções básicas de como funciona o versionamento de arquivos e como podemos usar o git (terminal local) para escrever nossos arquivos e fazermos o upgload  para o git hub (terminal remoto)
+
